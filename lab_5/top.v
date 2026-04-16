@@ -16,7 +16,7 @@ module top(
         .pbout(rst_clean)
     );
 
-    // Instance of the switches/leds interface
+    // Instance of the switches/leds interfaces
     switches sw(
         .clk(clk),
         .rst(rst_clean),
