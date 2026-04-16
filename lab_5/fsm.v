@@ -1,5 +1,4 @@
 `timescale 1ns / 1ps
-
 module fsm_counter(
     input clk,
     input rst,
@@ -7,7 +6,7 @@ module fsm_counter(
     output reg [15:0] led_out
 );
 
-    // State definitions
+    // States definitions
     parameter IDLE = 1'b0, COUNTDOWN = 1'b1;
 
     reg state;
