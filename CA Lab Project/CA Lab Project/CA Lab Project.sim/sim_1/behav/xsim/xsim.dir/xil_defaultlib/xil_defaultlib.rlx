@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+E:/CA Lab/CA Lab Project/CA Lab Project.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+E:/CA Lab/CA Lab Project/CA Lab Project.srcs/sim_1/new/tb_ProjectFinal.v,1776514168,verilog,,,,tb_ProjectFinal,,,,,,,,
+E:/CA Lab/CA Lab Project/CA Lab Project.srcs/sources_1/new/SevenSegmentControl.v,1776504850,verilog,,E:/CA Lab/CA Lab Project/CA Lab Project.srcs/sources_1/new/TopLevelProcessor.v,,SevenSegmentControl,,,,,,,,
+E:/CA Lab/CA Lab Project/CA Lab Project.srcs/sources_1/new/TopLevelProcessor.v,1776514168,verilog,,E:/CA Lab/CA Lab Project/CA Lab Project.srcs/sim_1/new/tb_ProjectFinal.v,,ALU;ALUControl;AddressDecoder;DataMemory;MainControl;ProgramCounter;RegisterFile;TopLevelProcessor;branchAdder;immGen;instructionMemory;leds;mux2;pcAdder,,,,,,,,

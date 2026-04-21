@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CA Lab Project.srcs/sources_1/new/SevenSegmentControl.v" \
+"../../../../CA Lab Project.srcs/sources_1/new/TopLevelProcessor.v" \
+"../../../../CA Lab Project.srcs/sim_1/new/tb_ProjectFinal.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
